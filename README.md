@@ -1,2 +1,2 @@
-# thevangit
+# theVangGit
 github page

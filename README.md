@@ -1,2 +1,2 @@
-# thevangit.github.io
+# thevangit
 github page

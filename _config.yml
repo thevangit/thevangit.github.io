@@ -1,6 +1,6 @@
 # Site settings
 title: theVan
-SEOTitle: theVan Blog
+SEOTitle: theVan
 header-img: /img/home-bg.jpg
 email: xmingm2333@gmail.com
 description: "无论机械还是计算机，终究都是要搞“机”的"
@@ -48,10 +48,10 @@ gems: [jekyll-paginate]
 # replace redcarpet to kramdown,
 # although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
 # document: http://jekyllrb.com/docs/configuration/#kramdown
-markdown: kramdown
-highlighter: rouge
-kramdown:
-  input: GFM                            # use Github Flavored Markdown !important
+# markdown: kramdown
+# highlighter: rouge
+# kramdown:
+#   input: GFM                            # use Github Flavored Markdown !important
 
 
 

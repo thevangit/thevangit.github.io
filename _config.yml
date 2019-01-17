@@ -1,13 +1,13 @@
 # Site settings
 title: theVan
 SEOTitle: theVan Blog
-header-img: img/post-bg-o.jpg
+header-img: /img/home-bg.jpg
 email: xmingm2333@gmail.com
 description: "无论机械还是计算机，终究都是要搞“机”的"
 keyword: "theVan, nba, anime, pokenmon, rookie, LOL android, java"
 url: "http://thevangit.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-# github_repo: "https://github.com/thevangit/thevangit.github.io.git" # you code repository
+github_repo: "https://github.com/thevangit/thevangit.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.

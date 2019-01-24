@@ -2,9 +2,9 @@
 layout:     post
 title:      黑白天气的小小CustomView
 subtitle:   用于显示相关天气温度之类的数据的控件
-date:       2018-12-28
+date:       2019-1-25
 author:     theVan
-header-img: post-bg-swift2.jpg
+header-img: post-bg-android.jpg
 catalog: true
 tags:
     - android
@@ -12,7 +12,7 @@ tags:
     - Git
 ---
 
-> 来年の仕事のため、一生懸命頑張ります。
+> 仕事のため、一生懸命頑張ります。
 
 > 随心的笔记
 
@@ -81,7 +81,7 @@ tags:
 
 ### 效果
 
-![demo效果](https://github.com/thevangit/thevangit.github.io/blob/master/img/d95_test_1.gif?raw=true)
+![demo效果](img/d95_test_1.gif)
 
-![加入到黑白天气中](https://github.com/thevangit/thevangit.github.io/blob/master/img/d95_test_2.gif?raw=true)
+![加入到黑白天气中](img/d95_test_2.gif)
 

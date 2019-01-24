@@ -2,9 +2,9 @@
 layout:     post
 title:      黑白天气的小小CustomView
 subtitle:   用于显示相关天气温度之类的数据的控件
-date:       2019-1-25
+date:       2019-1-24
 author:     theVan
-header-img: post-bg-android.jpg
+header-img: img/post-bg-android.jpg
 catalog: true
 tags:
     - android
@@ -80,8 +80,8 @@ tags:
 ```
 
 ### 效果
-
-![demo效果](img/d95_test_1.gif)
-
-![加入到黑白天气中](img/d95_test_2.gif)
+demo的效果：
+![demo](img/d95_test_1.gif)
+加入到黑白天气中的效果：
+![black](img/d95_test_2.gif)
 

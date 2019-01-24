@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      黑白天气笔记: Custom View
-subtitle:   用于显示相关天气数据的控件
+title:      黑白天气的小小CustomView
+subtitle:   用于显示相关天气温度之类的数据的控件
 date:       2018-12-28
 author:     theVan
 header-img: post-bg-swift2.jpg
@@ -16,7 +16,7 @@ tags:
 
 > 随心的笔记
 
-#概述
+# 概述
 
 感觉应用显示温度数据的时候直接就干巴巴地跳出来了，打算做一个控件用来给温度加点特技。
 
@@ -81,7 +81,7 @@ tags:
 
 ### 效果
 
-![demo效果](img/d95_test_1.gif)
+![demo效果](img/d95_test_1.png)
 
-![加入到黑白天气中](img/d95_test_2.gif)
+![加入到黑白天气中](img/d95_test_2.png)
 

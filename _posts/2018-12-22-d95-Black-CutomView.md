@@ -81,7 +81,7 @@ tags:
 
 ### 效果
 
-![demo效果](img/d95_test_1.png)
+![demo效果](https://github.com/thevangit/thevangit.github.io/blob/master/img/d95_test_1.gif?raw=true)
 
-![加入到黑白天气中](img/d95_test_2.png)
+![加入到黑白天气中](https://github.com/thevangit/thevangit.github.io/blob/master/img/d95_test_2.gif?raw=true)
 

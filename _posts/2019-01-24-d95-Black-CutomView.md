@@ -56,13 +56,15 @@ tags:
         }
         // 获取自定义的插值器类型，没有定义的话设为线性插值器
         if (typedArray.hasValue(R.styleable.WeatherTempTextView_interpolatorType)) {
-            mInterpolatorType = typedArray.getIndex(R.styleable.WeatherTempTextView_interpolatorType);
+            mInterpolatorType = typedArray.getIndex(
+                R.styleable.WeatherTempTextView_interpolatorType);
         } else {
             mInterpolatorType = DEFAULT_LINEARINTERPOLATOR;
         }
         // 获取自定义的动画时间，没有定义的话设为2s。
         mDuration = typedArray.getInt(R.styleable.WeatherTempTextView_interpolatorType,
                 DEFAULT_DURATION);
+        typedArray.recycle();
 
         /* 设置属性动画 */
         mAnimator = ValueAnimator.ofFloat(ANIMATOR_START_VALUE, ANIMATOR_END_VALUE);
@@ -81,7 +83,7 @@ tags:
 
 ### 效果
 demo的效果：
-![demo](img/d95_test_1.gif)
+![demo](https://github.com/thevangit/thevangit.github.io/blob/master/img/d95_test_1.gif?raw=true)
 加入到黑白天气中的效果：
-![black](img/d95_test_2.gif)
+![black](https://github.com/thevangit/thevangit.github.io/blob/master/img/d95_test_2.gif?raw=true)
 

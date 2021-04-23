@@ -80,7 +80,7 @@ tags:
 
 ### 效果
 demo的效果：
-![demo](./img/d95_test_1.gif)
+![demo](../img/d95_test_1.gif)
 加入到黑白天气中的效果：
-![black](./img/d95_test_2.gif)
+![black](../img/d95_test_2.gif)
 

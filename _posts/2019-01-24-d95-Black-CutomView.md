@@ -12,9 +12,6 @@ tags:
     - Git
 ---
 
-> 仕事のため、一生懸命頑張ります。
-
-> 随心的笔记
 
 # 概述
 
@@ -83,7 +80,7 @@ tags:
 
 ### 效果
 demo的效果：
-![demo](https://github.com/thevangit/thevangit.github.io/blob/master/img/d95_test_1.gif?raw=true)
+![demo](./img/d95_test_1.gif)
 加入到黑白天气中的效果：
-![black](https://github.com/thevangit/thevangit.github.io/blob/master/img/d95_test_2.gif?raw=true)
+![black](./img/d95_test_2.gif)
 
